@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+  <description>
+    <p>SmartAstroTools by Don Emmel. Standalone PixInsight image-processing scripts.</p>
+  </description>
+  <platform os="all" arch="noarch" version="1.9.5:1.9.6">
+    <package fileName="SmartAstroTools-20261119-Beta.zip" sha1="0fa258ec4c84df4fce2999bbc1922229d5cb4b4a" type="script" releaseDate="20261119">
+      <title>SmartAstroTools - Three Tools Beta</title>
+      <description>
+        <p>Quick Stretch 0.2.31, Color Mapper 0.1.27 and Curves Transform 0.1.79.</p>
+        <p>Standalone scripts installed under Script &gt; SmartAstroTools. Image zoom is disabled. Apply operations show progress dialogs.</p>
+      </description>
+    </package>
+  </platform>
+</xri>
