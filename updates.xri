@@ -3,7 +3,7 @@
   <description>
     <p>SmartAstroTools by Don Emmel. Standalone PixInsight image-processing scripts.</p>
   </description>
-  <platform os="all" arch="noarch" version="1.9.5:1.9.6">
+  <platform os="all" arch="noarch" version="1.9.4:1.9.6">
     <package fileName="SmartAstroTools-20261119-Beta.zip" sha1="0fa258ec4c84df4fce2999bbc1922229d5cb4b4a" type="script" releaseDate="20261119">
       <title>SmartAstroTools - Three Tools Beta</title>
       <description>
